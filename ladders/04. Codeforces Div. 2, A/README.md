@@ -21,7 +21,7 @@
 |<ul><li>- [ 1] Done</li></ul>|14|[Dubstep](http://codeforces.com/problemset/problem/208/A)|Codeforces|2|
 |<ul><li>- [ 1] Done</li></ul>|15|[Young Physicist](http://codeforces.com/problemset/problem/69/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|16|[Puzzles](http://codeforces.com/problemset/problem/337/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|17|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces|2|
+|<ul><li>- [ 1] Done</li></ul>|17|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|18|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
 |<ul><li>- [ ] Done</li></ul>|19|[I Wanna Be the Guy](http://codeforces.com/problemset/problem/469/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|20|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
