@@ -24,7 +24,7 @@
 |<ul><li>- [ 1] Done</li></ul>|17|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces|2|
 |<ul><li>- [1 ] Done</li></ul>|18|[Anton and Letters](http://codeforces.com/problemset/problem/443/A)|Codeforces|1|
 |<ul><li>- [1 ] Done</li></ul>|19|[I Wanna Be the Guy](http://codeforces.com/problemset/problem/469/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|20|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
+|<ul><li>- [ 1] Done</li></ul>|20|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|21|[Cheap Travel](http://codeforces.com/problemset/problem/466/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|22|[Ilya and Bank Account](http://codeforces.com/problemset/problem/313/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|23|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
