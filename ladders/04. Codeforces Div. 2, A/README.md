@@ -27,7 +27,7 @@
 |<ul><li>- [ 1] Done</li></ul>|20|[Even Odds](http://codeforces.com/problemset/problem/318/A)|Codeforces|2|
 |<ul><li>- [ 1] Done</li></ul>|21|[Cheap Travel](http://codeforces.com/problemset/problem/466/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|22|[Ilya and Bank Account](http://codeforces.com/problemset/problem/313/A)|Codeforces|2|
-|<ul><li>- [ ] Done</li></ul>|23|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
+|<ul><li>- [1 ] Done</li></ul>|23|[Pashmak and Garden](http://codeforces.com/problemset/problem/459/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|24|[Dragons](http://codeforces.com/problemset/problem/230/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|25|[Dreamoon and Stairs](http://codeforces.com/problemset/problem/476/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|26|[Team Olympiad](http://codeforces.com/problemset/problem/490/A)|Codeforces|1|
