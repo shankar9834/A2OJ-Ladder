@@ -58,7 +58,7 @@
 |<ul><li>- [1 ] Done</li></ul>|51|[Colorful Stones (Simplified Edition)](http://codeforces.com/problemset/problem/265/A)|Codeforces|1|
 |<ul><li>- [1 ] Done</li></ul>|52|[Domino](http://codeforces.com/problemset/problem/353/A)|Codeforces|3|
 |<ul><li>- [1 ] Done</li></ul>|53|[Cifera](http://codeforces.com/problemset/problem/114/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|54|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
+|<ul><li>- [ 1] Done</li></ul>|54|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|55|[Fox and Number Game](http://codeforces.com/problemset/problem/389/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|56|[Giga Tower](http://codeforces.com/problemset/problem/488/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|57|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
