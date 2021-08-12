@@ -61,7 +61,7 @@
 |<ul><li>- [ 1] Done</li></ul>|54|[Array](http://codeforces.com/problemset/problem/300/A)|Codeforces|2|
 |<ul><li>- [1 ] Done</li></ul>|55|[Fox and Number Game](http://codeforces.com/problemset/problem/389/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|56|[Giga Tower](http://codeforces.com/problemset/problem/488/A)|Codeforces|3|
-|<ul><li>- [ ] Done</li></ul>|57|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
+|<ul><li>- [ 1] Done</li></ul>|57|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|58|[DZY Loves Chessboard](http://codeforces.com/problemset/problem/445/A)|Codeforces|3|
 |<ul><li>- [ ] Done</li></ul>|59|[Football](http://codeforces.com/problemset/problem/43/A)|Codeforces|2|
 |<ul><li>- [ ] Done</li></ul>|60|[Life Without Zeros](http://codeforces.com/problemset/problem/75/A)|Codeforces|2|
